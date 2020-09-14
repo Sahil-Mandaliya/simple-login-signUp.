@@ -1,0 +1,48 @@
+
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+
+
+.center {
+    margin: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+.colorr {
+    background:green;
+}
+.Errors {
+    color: red;
+    font-weight: bolder;
+    display:none;
+}
+.error
+{
+    display: none;
+}
+
+.style1
+{
+    font-weight:bolder;
+}
+
+.headDivColor
+{
+    color: chartreuse;
+}
+
+.hideShow
+{
+    display:"block";
+}
+
+.clearBtn
+{
+    text-align: center;
+}
